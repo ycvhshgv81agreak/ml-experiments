@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated .gitignore to exclude build artifacts
 - Ran linter, applied auto-fixes
 - Added basic usage examples to README
+
+## 2026-03-23
+- Tidied up project structure
+- Added basic retry logic for network requests
