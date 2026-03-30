@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Updated dependencies to latest stable versions
 - Improved error handling in edge cases
+
+## 2026-03-30
+- Checked for memory leaks in long-running path
+- Added CONTRIBUTING.md stub
