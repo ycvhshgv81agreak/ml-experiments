@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tidied up project structure
 - Added basic retry logic for network requests
+
+## 2026-03-30
+- Added .editorconfig for consistent formatting
+- Added CONTRIBUTING.md stub
+- Fixed off-by-one error in loop
