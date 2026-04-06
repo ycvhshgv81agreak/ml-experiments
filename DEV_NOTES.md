@@ -35,3 +35,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-06
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-06
+- Resolved TODO items from previous session
+- Cleaned up old debug logs
